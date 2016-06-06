@@ -2,11 +2,12 @@
 rm(list = ls(all = TRUE))
 graphics.off()
 
-install.packages("kernlab")
-library(kernlab)
-install.packages("ellipse")
-library(ellipse)
-
+# install and load packages
+libraries = c("kernlab", "ellipse", "xtable")
+lapply(libraries, function(x) if (!(x %in% installed.packages())) {
+    install.packages(x)
+})
+lapply(libraries, library, quietly = TRUE, character.only = TRUE)
 
 ################################################################################
 ########################## manipulate subroutine specc #########################
@@ -230,13 +231,13 @@ datacl  = sc$data             # clusters
 evalues = sc$evalues          # eigenvalues
 evectors= sc$evectors         # eigenvectors
 
+# Latex export
 xtable(as.matrix(evalues))
 xtable(evectors)
 
-
+# final output
 plot(eight,type="n",xlab="price conciousness",ylab="brand loyalty",xlim=c(-4,4),main="8 points")
 points(eight, pch=21, cex=2.7, bg="white")
 text(eight,as.character(1:8),col="red3",xlab="first coordinate", ylab="second coordinate", main="8 points",cex=1)
 lines(ellipse(0.6,centre=centers[2,],scale=c(1.2,2)),col="red3",lwd=2)
 lines(ellipse(0.6,centre=centers[1,],scale=c(.7,.4)),col="blue3",lwd=2)
-
