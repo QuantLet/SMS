@@ -9,7 +9,7 @@ Keywords : 'cluster-analysis, spectral, plot, graphical representation, eigenval
 See also : 'SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclusbank, SMSclusbank2, 
 SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth'
 
-Author : Awdesch Melzer, Simon Trimborn
+Author : Awdesch Melzer, Simon Trimborn, Lukas Borke
 
 Submitted : Thu, October 02 2014 by Awdesch Melzer
 
