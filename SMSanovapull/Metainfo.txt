@@ -1,7 +1,7 @@
 
 Name of Quantlet: SMSanovapull
 
-Published in: Multivariate Statistics: Exercises and Solutions
+Published in: 'Multivariate Statistics: Exercises and Solutions'
 
 Description: 'performes a linear regression and an analysis
 of variance (ANOVA) for three marketing strategies.
