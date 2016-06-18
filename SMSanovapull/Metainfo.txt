@@ -27,9 +27,7 @@ the marketing strategies having no effect.
 The output shows rejection of the null hypothesis.
 For more information see Exercise 3.20.'
 
-Keywords: 'regression, linear model, analysis of variance, factor-model,
-linear model, variance, F-test, F-statistic, F test, mean,
-heteroskedasticity, test, Testing'
+Keywords: 'regression, analysis, variance, factor-model, linear-model, F-test, F-statistic, mean, heteroskedasticity, test, Testing'
 
 See also: 'SMScovbank, SMSdete2pull, SMSdeterpull, SMSlinregpull, SMSscabank45'
 
