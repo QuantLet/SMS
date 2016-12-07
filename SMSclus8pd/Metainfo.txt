@@ -1,0 +1,24 @@
+Name of Quantlet : SMSclus8pd
+
+Published in : 'Multivariate Statistics: Exercises and Solutions'
+
+Description : 'Employs the Ward algorithm using squared Euclidean distance and single linkage method using simple Euclidean distance and squared Euclidean distance matrices to perform a cluster analysis on an 8 points example. Three plots are generated. First plot schows the 8 points, second plot the dendrogram for squared Euclidean distance and single linkage while the third plot presents the dendrogram for Euclidean distance using single linkage algorithm'
+
+Keywords : 'cluster-analysis, dendrogram, Ward algorithm, euclidean, 
+distance, linkage'
+
+See also : 'MVAQnetClusKmeans, MVAQnetClusKmeansB, MVAQnetClusKmeansT, MVAcarsim, 
+MVAclus8p, MVAclusfood, MVAclususcrime, MVAdrugsim, MVAspecclust, SMScarsim, 
+SMSclus8km, SMSclus8p, SMSclus8pa, SMSclus8pc, SMSclus8pmst, SMSclus8pmst2, 
+SMSclus8psc, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscereal, SMScluscomp, 
+SMScluscrime, SMScluscrimechi2, SMSclushealth, SMSclushealth05, SMScluskmcereal,
+SMScluskmhealth'
+
+Author[R] : Tomas Hovorka, Awdesch Melzer
+
+Author[Matlab] : Awdesch Melzer
+
+Submitted : Fri, August 22 2014 by Awdesch Melzer
+
+Example : 'Single linkage using squared Euclidean and Euclidean distance for 8 points
+example eight points and ward dendrogram'
