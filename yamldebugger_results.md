@@ -7,6 +7,7 @@
 |SMSclus8p       |SMSclus8p       |21 word(s), 118 Character(s)  |6: 6 (standard), 0 (new)   |
 |SMSclus8pa      |SMSclus8pa      |18 word(s), 104 Character(s)  |6: 6 (standard), 0 (new)   |
 |SMSclus8pc      |SMSclus8pc      |18 word(s), 105 Character(s)  |5: 5 (standard), 0 (new)   |
+|SMSclus8pd      |SMSclus8pd      |64 word(s), 378 Character(s)  |6: 6 (standard), 0 (new)   |
 |SMSclus8pmst    |SMSclus8pmst    |9 word(s), 47 Character(s)    |5: 5 (standard), 0 (new)   |
 |SMSclus8pmst2   |SMSclus8pmst2   |9 word(s), 47 Character(s)    |5: 5 (standard), 0 (new)   |
 |SMSclus8psc     |SMSclus8psc     |9 word(s), 55 Character(s)    |6: 6 (standard), 0 (new)   |
