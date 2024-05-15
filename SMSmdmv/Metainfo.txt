@@ -8,6 +8,7 @@ random variables with a specified mean and covariance matrix.'
 Keywords : 'bivariate, multivariate, multivariate normal, normal, plot, graphical representation'
 
 Author : Simon Trimborn
+Author[Python] : Raul Cristian Bag
 
 Submitted : Fri, August 22 2014 by Awdesch Melzer
 
