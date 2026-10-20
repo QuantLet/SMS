@@ -13,7 +13,7 @@ Description: Employs the spectral clustering algorithm on an 8 points example
 
 Keywords: cluster-analysis, spectral, plot, graphical representation, eigenvalues, eigenvectors
 
-See also: SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclusbank, SMSclusbank2,
+See also: SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Awdesch Melzer, Simon Trimborn, Lukas Borke
 
