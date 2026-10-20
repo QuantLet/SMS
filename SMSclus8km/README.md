@@ -9,11 +9,11 @@ Name of Quantlet: SMSclus8km
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: performs a k-means cluster analysis with the standard algorithm (Lloyds)
+Description: performs a k-means cluster analysis with the standard algorithm (Lloyds) on an 8 points example
 
 Keywords: cluster-analysis, plot, graphical representation, distance, partitioning
 
-See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8p, SMSclus8pd, SMSclus8pd,
+See also: MVAclususcrime, MVAdrugsim, SMSclus8p, SMSclus8p, SMSclus8pd, SMSclus8pd, SMSclus8pmst2, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth
 
 Author: Simon Trimborn, Elisabeth Bommes
 
