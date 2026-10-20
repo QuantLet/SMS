@@ -9,11 +9,11 @@ Name of Quantlet: SMSclus8p
 
 Published in: Multivariate Statistics: Exercises and Solutions
 
-Description: employs the Ward method and complete linkage using squared Euclidean
+Description: employs the Ward method and complete linkage using squared Euclidean distance matrices to perform a cluster analysis on an 8 points example
 
 Keywords: cluster-analysis, dendrogram, Ward algorithm, linkage, euclidean, distance
 
-See also: MVAQnetClusKmeans, MVAQnetClusKmeansB, MVAQnetClusKmeansT, MVAcarsim,
+See also: MVAQnetClusKmeans, MVAQnetClusKmeansB, MVAQnetClusKmeansT, MVAcarsim, MVAclus8p, MVAclusfood, MVAclususcrime, MVAdrugsim, MVAspecclust, SMScarsim, SMSclus8km, SMSclus8pa, SMSclus8pc, SMSclus8pd, SMSclus8pmst, SMSclus8pmst2, SMSclus8psc, SMSclusbank, SMSclusbank2, SMSclusbank3, SMScluscereal, SMScluscomp, SMScluscrime, SMScluscrimechi2, SMSclushealth, SMSclushealth05, SMScluskmcereal, SMScluskmhealth
 
 Author: Awdesch Melzer
 
